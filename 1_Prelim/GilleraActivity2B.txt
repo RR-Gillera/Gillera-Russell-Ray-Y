@@ -1,0 +1,15 @@
+using System;
+
+public class GilleraActivity2B
+{
+    public static void Main(string[] args)
+    {
+        int gilleraVarA = 20;
+        double gilleraVarB = 17.57;
+        
+        double gilleraVarC = (double)gilleraVarA;
+        int gilleraVarD = (int)gilleraVarB;
+        
+        Console.WriteLine(gilleraVarC+ "\n" +gilleraVarD);
+    }
+}

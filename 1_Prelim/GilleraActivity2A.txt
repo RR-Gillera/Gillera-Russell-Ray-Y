@@ -1,0 +1,15 @@
+using System;
+
+public class GilleraActivity2A
+{
+    public static void Main(string[] args)
+    {
+        int gilleraVarA = 20;
+        double gilleraVarB = 17.57;
+        
+        Console.WriteLine ("Sum: "+(gilleraVarA + gilleraVarB));
+        Console.WriteLine ("Difference: "+(gilleraVarA - gilleraVarB));
+        Console.WriteLine ("Product: "+(gilleraVarA * gilleraVarB));
+        Console.WriteLine ("Quotient: "+(gilleraVarA / gilleraVarB));
+    }
+}

@@ -1,0 +1,21 @@
+using System;
+
+public class Activity3B
+{
+    public static void Main(string[] args)
+    {
+        const int X = 24;
+        double Y = X * 1.5;
+        char C = (char)('A' + (X % 26));
+        string S = "Student"+X+"'s Test";
+        bool B = X % 2 == 0;
+        
+        
+        Console.WriteLine("Student ID ending in "+X);
+        Console.WriteLine("Integer Value: "+X);
+        Console.WriteLine("Double Value: "+Y);
+        Console.WriteLine("Character Value: "+C);
+        Console.WriteLine("String Value: "+S);
+        Console.WriteLine("Boolean Value: "+B);
+    }
+}

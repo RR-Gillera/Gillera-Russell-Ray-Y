@@ -1,0 +1,16 @@
+using System;
+
+public class Activity3A
+{
+    public static void Main(string[] args)
+    {
+        const int X = 24;
+        int Y = X * 2 + 5;
+        int Z = Y - X;
+        
+        Console.WriteLine("Hello, Student with ID ending in "+X+"!");
+        Console.Write("Your values are: ");
+        Console.Write(X+", "+Y+", "+Z);
+        Console.WriteLine("\nComputation completed successfully!");
+    }
+}

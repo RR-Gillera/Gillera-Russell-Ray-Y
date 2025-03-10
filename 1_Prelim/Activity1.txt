@@ -1,0 +1,16 @@
+using System;
+
+public class Activity1
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Gillera");//Family Name
+        Console.WriteLine("Russell Ray");//First Name
+        Console.WriteLine("Yap");//Middle Name
+        Console.WriteLine("BSIT");//Course/Degree
+        Console.WriteLine("2nd Year");//Year Level
+        Console.WriteLine("01/19/2005");//Birthdate
+        Console.WriteLine("Summoner's Rift");//Home address
+        Console.WriteLine("russellgillera19@gmail.com");//Email address
+    }
+}

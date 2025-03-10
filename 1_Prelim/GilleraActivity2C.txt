@@ -1,0 +1,11 @@
+using System;
+
+public class GilleraActivity2C
+{
+    public static void Main(string[] args)
+    {
+        string studentName = "Russell Ray Yap Gillera";
+        
+        Console.WriteLine(studentName.ToUpper()+ "\n" +studentName.Length);
+    }
+}
