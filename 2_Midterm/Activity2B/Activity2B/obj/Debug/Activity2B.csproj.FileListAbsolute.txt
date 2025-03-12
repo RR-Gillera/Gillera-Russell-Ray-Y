@@ -8,3 +8,13 @@ Z:\II119\GILLERA, Russell Ray Y\2_Midterm\Activity2B\Activity2B\obj\Debug\Activi
 Z:\II119\GILLERA, Russell Ray Y\2_Midterm\Activity2B\Activity2B\obj\Debug\Activity2B.csproj.CoreCompileInputs.cache
 Z:\II119\GILLERA, Russell Ray Y\2_Midterm\Activity2B\Activity2B\obj\Debug\Activity2B.exe
 Z:\II119\GILLERA, Russell Ray Y\2_Midterm\Activity2B\Activity2B\obj\Debug\Activity2B.pdb
+C:\Users\Gwapo\source\repos\Gillera-Russell-Ray-Y\2_Midterm\Activity2B\Activity2B\bin\Debug\Activity2B.exe.config
+C:\Users\Gwapo\source\repos\Gillera-Russell-Ray-Y\2_Midterm\Activity2B\Activity2B\bin\Debug\Activity2B.exe
+C:\Users\Gwapo\source\repos\Gillera-Russell-Ray-Y\2_Midterm\Activity2B\Activity2B\bin\Debug\Activity2B.pdb
+C:\Users\Gwapo\source\repos\Gillera-Russell-Ray-Y\2_Midterm\Activity2B\Activity2B\obj\Debug\Activity2B.csproj.AssemblyReference.cache
+C:\Users\Gwapo\source\repos\Gillera-Russell-Ray-Y\2_Midterm\Activity2B\Activity2B\obj\Debug\Activity2B.Form1.resources
+C:\Users\Gwapo\source\repos\Gillera-Russell-Ray-Y\2_Midterm\Activity2B\Activity2B\obj\Debug\Activity2B.Properties.Resources.resources
+C:\Users\Gwapo\source\repos\Gillera-Russell-Ray-Y\2_Midterm\Activity2B\Activity2B\obj\Debug\Activity2B.csproj.GenerateResource.cache
+C:\Users\Gwapo\source\repos\Gillera-Russell-Ray-Y\2_Midterm\Activity2B\Activity2B\obj\Debug\Activity2B.csproj.CoreCompileInputs.cache
+C:\Users\Gwapo\source\repos\Gillera-Russell-Ray-Y\2_Midterm\Activity2B\Activity2B\obj\Debug\Activity2B.exe
+C:\Users\Gwapo\source\repos\Gillera-Russell-Ray-Y\2_Midterm\Activity2B\Activity2B\obj\Debug\Activity2B.pdb
