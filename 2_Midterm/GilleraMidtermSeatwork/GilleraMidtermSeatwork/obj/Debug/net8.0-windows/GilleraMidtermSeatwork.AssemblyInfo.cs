@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GilleraMidtermSeatwork")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca98f7131def84e264983b67116d586e0ed832e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2707490e8dfdae005dff47a3e4033727c2ed5c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("GilleraMidtermSeatwork")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GilleraMidtermSeatwork")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -38,13 +38,14 @@
             // 
             // question
             // 
-            this.question.BackColor = System.Drawing.Color.Lime;
-            this.question.Font = new System.Drawing.Font("Wide Latin", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.question.Location = new System.Drawing.Point(439, 367);
+            this.question.BackColor = System.Drawing.Color.Silver;
+            this.question.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.question.Location = new System.Drawing.Point(411, 367);
             this.question.MaximumSize = new System.Drawing.Size(1000, 1000);
             this.question.MinimumSize = new System.Drawing.Size(150, 30);
+            this.question.Multiline = true;
             this.question.Name = "question";
-            this.question.Size = new System.Drawing.Size(150, 30);
+            this.question.Size = new System.Drawing.Size(196, 38);
             this.question.TabIndex = 5;
             this.question.Click += new System.EventHandler(this.Click);
             this.question.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
@@ -56,7 +57,7 @@
             // 
             // answer
             // 
-            this.answer.BackColor = System.Drawing.Color.Cyan;
+            this.answer.BackColor = System.Drawing.Color.MintCream;
             this.answer.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.answer.Location = new System.Drawing.Point(358, 22);
             this.answer.MaximumSize = new System.Drawing.Size(1000, 1000);
@@ -69,7 +70,7 @@
             // 
             // lbl1
             // 
-            this.lbl1.BackColor = System.Drawing.Color.Red;
+            this.lbl1.BackColor = System.Drawing.Color.Gainsboro;
             this.lbl1.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl1.Location = new System.Drawing.Point(24, 22);
             this.lbl1.MaximumSize = new System.Drawing.Size(1000, 1000);
@@ -81,6 +82,7 @@
             // 
             // button1
             // 
+            this.button1.ForeColor = System.Drawing.Color.Black;
             this.button1.Location = new System.Drawing.Point(661, 367);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(159, 38);
@@ -99,6 +101,7 @@
             this.Controls.Add(this.answer);
             this.Controls.Add(this.question);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
