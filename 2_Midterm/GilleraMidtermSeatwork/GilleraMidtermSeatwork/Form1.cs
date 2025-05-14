@@ -9,6 +9,23 @@ namespace GilleraMidtermSeatwork
         {
             InitializeComponent();
         }
+        protected override void OnLoad(EventArgs e)
+    {
+        base.OnLoad(e);
+        // Initial value
+        operation.Text = "0";
+    }
+
+    // Add to improve user feedback
+    protected override void OnPaint(PaintEventArgs e)
+    {
+        base.OnPaint(e);
+        // Add a subtle separator line
+        using (Pen pen = new Pen(Color.FromArgb(70, 70, 75), 1))
+        {
+            e.Graphics.DrawLine(pen, 12, 80, 338, 80);
+        }
+    }
 
         private void bttnCE_Click(object sender, EventArgs e)
         {

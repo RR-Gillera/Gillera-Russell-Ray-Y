@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gwapo\\source\\repos\\Gillera-Russell-Ray-Y\\2_Midterm\\GilleraMidtermSeatwork\\",
+  "WorkspaceRootPath": "C:\\Users\\II119\\source\\repos\\Gillera-Russell-Ray-Y\\2_Midterm\\GilleraMidtermSeatwork\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B863AA8F-42A5-4896-9EE7-F3974EB361AD}|GilleraMidtermSeatwork\\GilleraMidtermSeatwork.csproj|c:\\users\\gwapo\\source\\repos\\gillera-russell-ray-y\\2_midterm\\gilleramidtermseatwork\\gilleramidtermseatwork\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B863AA8F-42A5-4896-9EE7-F3974EB361AD}|GilleraMidtermSeatwork\\GilleraMidtermSeatwork.csproj|solutionrelative:gilleramidtermseatwork\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B863AA8F-42A5-4896-9EE7-F3974EB361AD}|GilleraMidtermSeatwork\\GilleraMidtermSeatwork.csproj|c:\\users\\ii119\\source\\repos\\gillera-russell-ray-y\\2_midterm\\gilleramidtermseatwork\\gilleramidtermseatwork\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B863AA8F-42A5-4896-9EE7-F3974EB361AD}|GilleraMidtermSeatwork\\GilleraMidtermSeatwork.csproj|solutionrelative:gilleramidtermseatwork\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B863AA8F-42A5-4896-9EE7-F3974EB361AD}|GilleraMidtermSeatwork\\GilleraMidtermSeatwork.csproj|c:\\users\\gwapo\\source\\repos\\gillera-russell-ray-y\\2_midterm\\gilleramidtermseatwork\\gilleramidtermseatwork\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B863AA8F-42A5-4896-9EE7-F3974EB361AD}|GilleraMidtermSeatwork\\GilleraMidtermSeatwork.csproj|c:\\users\\ii119\\source\\repos\\gillera-russell-ray-y\\2_midterm\\gilleramidtermseatwork\\gilleramidtermseatwork\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B863AA8F-42A5-4896-9EE7-F3974EB361AD}|GilleraMidtermSeatwork\\GilleraMidtermSeatwork.csproj|solutionrelative:gilleramidtermseatwork\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B863AA8F-42A5-4896-9EE7-F3974EB361AD}|GilleraMidtermSeatwork\\GilleraMidtermSeatwork.csproj|c:\\users\\ii119\\source\\repos\\gillera-russell-ray-y\\2_midterm\\gilleramidtermseatwork\\gilleramidtermseatwork\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B863AA8F-42A5-4896-9EE7-F3974EB361AD}|GilleraMidtermSeatwork\\GilleraMidtermSeatwork.csproj|solutionrelative:gilleramidtermseatwork\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +22,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\II119\\source\\repos\\Gillera-Russell-Ray-Y\\2_Midterm\\GilleraMidtermSeatwork\\GilleraMidtermSeatwork\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "GilleraMidtermSeatwork\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\II119\\source\\repos\\Gillera-Russell-Ray-Y\\2_Midterm\\GilleraMidtermSeatwork\\GilleraMidtermSeatwork\\Form1.Designer.cs",
+              "RelativeToolTip": "GilleraMidtermSeatwork\\Form1.Designer.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAASwDgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T05:54:43.667Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Gwapo\\source\\repos\\Gillera-Russell-Ray-Y\\2_Midterm\\GilleraMidtermSeatwork\\GilleraMidtermSeatwork\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\II119\\source\\repos\\Gillera-Russell-Ray-Y\\2_Midterm\\GilleraMidtermSeatwork\\GilleraMidtermSeatwork\\Form1.cs",
               "RelativeDocumentMoniker": "GilleraMidtermSeatwork\\Form1.cs",
-              "ToolTip": "C:\\Users\\Gwapo\\source\\repos\\Gillera-Russell-Ray-Y\\2_Midterm\\GilleraMidtermSeatwork\\GilleraMidtermSeatwork\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\II119\\source\\repos\\Gillera-Russell-Ray-Y\\2_Midterm\\GilleraMidtermSeatwork\\GilleraMidtermSeatwork\\Form1.cs [Design]",
               "RelativeToolTip": "GilleraMidtermSeatwork\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T13:36:01.622Z",
@@ -34,13 +51,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Gwapo\\source\\repos\\Gillera-Russell-Ray-Y\\2_Midterm\\GilleraMidtermSeatwork\\GilleraMidtermSeatwork\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\II119\\source\\repos\\Gillera-Russell-Ray-Y\\2_Midterm\\GilleraMidtermSeatwork\\GilleraMidtermSeatwork\\Form1.cs",
               "RelativeDocumentMoniker": "GilleraMidtermSeatwork\\Form1.cs",
-              "ToolTip": "C:\\Users\\Gwapo\\source\\repos\\Gillera-Russell-Ray-Y\\2_Midterm\\GilleraMidtermSeatwork\\GilleraMidtermSeatwork\\Form1.cs",
+              "ToolTip": "C:\\Users\\II119\\source\\repos\\Gillera-Russell-Ray-Y\\2_Midterm\\GilleraMidtermSeatwork\\GilleraMidtermSeatwork\\Form1.cs",
               "RelativeToolTip": "GilleraMidtermSeatwork\\Form1.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAkwGwAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAwwF0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T12:18:07.713Z",
               "EditorCaption": ""
